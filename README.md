@@ -33,3 +33,13 @@ This project analyzes multi-channel sales performance, SKU-level profitability, 
 ---
 
 ## Repository Structure
+
+---
+├── README.md                                  # Project overview and business findings
+├── analysis_pipeline.sql                      # Production SQL pipeline with CTEs & window functions
+└── retail_operations_and_logistics_model.xlsx  # Multi-tab financial and logistics workbook
+---
+
+## Contact
+* LinkedIn: https://linkedin.com
+* GitHub: https://github.com/ahmadyasseradvice
